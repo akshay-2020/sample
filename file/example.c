@@ -19,4 +19,6 @@ int main(void)
 	{
 		printf("hi\n");
 	}
+
+	char *ptr;
 }
